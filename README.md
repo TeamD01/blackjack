@@ -1,6 +1,6 @@
 # blackjack
 Practice project based on BlackJack
 Project Team
-*David Monahan 
-*Uyen Nguyen
-*Stephanie Cobble
+*David Monahan (owner) 
+*Uyen Nguyen (collaborator)
+*Stephanie Cobble (collaborator)
